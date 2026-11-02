@@ -1,3 +1,4 @@
+https://titanic-data-science-project-qjneoan4kzkrsxpa7lx6vr.streamlit.app/?utm_source=chatgpt.com
 
 # 🚢 Titanic Survival Prediction – Data Science & Machine Learning
 
@@ -279,4 +280,3 @@ Project Repository: [Titanic Data Science Project](https://github.com/chiranth-a
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star.
